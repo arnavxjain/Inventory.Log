@@ -1,1 +1,3 @@
-"# Inventory.Log" 
+# Inventory Logs
+- This app is being developed for professional markets. The main purpose is to connect the app to a database over on MYSQL (phpmyadmin). 
+- More Information will be released soon...
